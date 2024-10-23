@@ -1,1 +1,1 @@
-# birinchi
+# terraform test
